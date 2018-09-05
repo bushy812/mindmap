@@ -1,0 +1,18 @@
+
+Project idea and changing:
+
+basic project idea: 
+
+create a website where the user can summarize his/her content and visualize it through
+a mindmap.
+
+
+Additional feature / Changment:
+
+create an additional panel where the user create a group and add people to it via email.
+the panel will consist of a mindmap which will be shared to every user in the group,
+once an edit / commit is placed it shall be updated through out the group using some sort
+of a github plugin.
+
+
+.
